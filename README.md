@@ -39,10 +39,10 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 
 ## Road-map
 
-**1. [What is OpenSource ?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/README.md)**
+**1. [Introduction to OpenSource ?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/README.md)**
 
-**2. [Git VS Github](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Git%20VS%20Github.md)**
+**2. [Git VS Github ( what is Git & Github )](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Git%20VS%20Github.md)**
 
-**3. [What is Version Control System?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Version%20Control.md)**
+**3. [Introduction to Version Control System?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Version%20Control.md)**
 
 **4. [Github Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github%20Basics)**
