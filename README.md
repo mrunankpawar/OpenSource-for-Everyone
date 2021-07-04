@@ -1,6 +1,6 @@
 # OpenSource for Everyone
 ![image.png](https://pulkitsinghdev.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1622860203177%2FduGc-I08R.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)
-## Hi folks 👋,
+**Hi folks 👋,**
 
 Today we will be discussing about something special about "OpenSource"!
 
@@ -16,8 +16,7 @@ In-fact, anyone can start Opensourcing!!! 😎😎 ( This time I am not kidding 
 
 ![image.png](https://i.imgur.com/nZ3HzWX.gif)
 
-## So let us now, discuss about what is OpenSource??
-![image.png](https://i.gifer.com/origin/76/76c9615fe30684f1f66a7f554b431c0c.gif)
+**So let us now, discuss about what is OpenSource??**
 
 A software's original source code is made freely available and may be redistributed and modified according to the requirement of the user.
 
