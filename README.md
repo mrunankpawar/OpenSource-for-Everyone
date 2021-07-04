@@ -26,7 +26,7 @@ More control over that kind of software & can examine the code to make sure it's
 ### What about others?
 You can make your projects, blogs, etc.. open source and let others contribute or view your work &many more advantages...
 
-### And other advantage includes:
+### other advantage includes:
 
 A large community of like minded inspiring people
 You get essential support and help
