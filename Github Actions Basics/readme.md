@@ -87,25 +87,32 @@ In this diagram, you can see the workflow file you just created and how the GitH
 
 ![image](https://user-images.githubusercontent.com/71369943/124400209-61981600-dd3e-11eb-9a2a-117c4a99d713.png)
 
-Viewing the job's activity
+## Viewing the job's activity
 Once your job has started running, you can see a visualization graph of the run's progress and view each step's activity on GitHub.
 
-On GitHub, navigate to the main page of the repository.
+1. On GitHub, navigate to the main page of the repository.
 
-Under your repository name, click Actions.
+2. Under your repository name, click Actions.
 Navigate to repository
 
-In the left sidebar, click the workflow you want to see.
-Screenshot of workflow results
+![image](https://user-images.githubusercontent.com/71369943/124400425-f4858000-dd3f-11eb-9f79-2817c88eac7b.png)
 
-Under "Workflow runs", click the name of the run you want to see.
-Screenshot of workflow runs
+3. In the left sidebar, click the workflow you want to see.
 
-Under Jobs or in the visualization graph, click the job you want to see.
-Select job
+![image](https://user-images.githubusercontent.com/71369943/124400433-fc452480-dd3f-11eb-888b-4c1c1ed1e6ae.png)
 
-View the results of each step.
-Screenshot of workflow run details
+4. Under "Workflow runs", click the name of the run you want to see.
 
-Next steps
+![image](https://user-images.githubusercontent.com/71369943/124400439-09faaa00-dd40-11eb-96de-2f098a4fc972.png)
+
+5. Under Jobs or in the visualization graph, click the job you want to see.
+
+![image](https://user-images.githubusercontent.com/71369943/124400445-17179900-dd40-11eb-8079-c5ab8abfa095.png)
+
+6. View the results of each step.
+
+![image](https://user-images.githubusercontent.com/71369943/124400451-20086a80-dd40-11eb-9aef-e2fe63c6a901.png)
+
+## Next steps
+
 To continue learning about GitHub Actions, see "Finding and customizing actions."
