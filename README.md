@@ -46,3 +46,5 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 **3. [Introduction to Version Control System?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Version%20Control.md)**
 
 **4. [Github Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github%20Basics)**
+
+**5. [Git Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Git%20Basics)**
