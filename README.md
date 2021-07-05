@@ -2,7 +2,7 @@
 ![image.png](https://pulkitsinghdev.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1622860203177%2FduGc-I08R.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)
 **Hi folks 👋,**
 
-Today we will be discussing about something special about "OpenSource"!
+Today we will be discussing about something special .i.e, "OpenSource"!
 
 So let me first of all, ask you all that "Are you not a Programmer????"
 
