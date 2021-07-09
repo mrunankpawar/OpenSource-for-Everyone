@@ -48,3 +48,5 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 **4. [Github Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github_Basics)**
 
 **5. [Git Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Git_Basics)**
+
+**6. [Github Actions Basics (optional)](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github_Actions_Basics)
