@@ -37,16 +37,10 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 - **[Git](#Git)**
 - **[Github](#Github)**
 
-## Road-map
+**You can select any of the doc  to get strted with according to your convienience**
 
-**1. [Introduction to OpenSource ?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/README.md)**
+We hope you enjoy it and get to learn something new and awesome from it
 
-**2. [Git VS Github ( what is Git & Github )](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Git_VS_Github.md)**
+& make sure to provide your reviews for this docs here:-
+[Documentation_Reviews.md](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Documentation_reviews.md)
 
-**3. [Introduction to Version Control System?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Version_Control.md)**
-
-**4. [Github Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github_Basics)**
-
-**5. [Git Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Git_Basics)**
-
-**6. [Github Actions Basics (optional)](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github_Actions_Basics)**
