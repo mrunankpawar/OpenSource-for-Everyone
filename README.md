@@ -41,10 +41,10 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 
 **1. [Introduction to OpenSource ?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/README.md)**
 
-**2. [Git VS Github ( what is Git & Github )](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Git%20VS%20Github.md)**
+**2. [Git VS Github ( what is Git & Github )](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Git_VS_Github.md)**
 
-**3. [Introduction to Version Control System?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Version%20Control.md)**
+**3. [Introduction to Version Control System?](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Version_Control.md)**
 
-**4. [Github Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github%20Basics)**
+**4. [Github Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Github_Basics)**
 
-**5. [Git Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Git%20Basics)**
+**5. [Git Basics](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/tree/main/Git_Basics)**
