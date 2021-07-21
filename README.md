@@ -4,6 +4,8 @@
 ## Highlights
 - [OpenSource Guide](Guide)
 - [Version Control](Version_Control.md)
+- [Documentation_Reviews.md](Documentation_reviews.md)
+
 ##
 
 **Hi folks 👋,**
@@ -59,3 +61,13 @@ We hope you enjoy it and get to learn something new and awesome from it
 & make sure to provide your reviews for this docs here:-
 [Documentation_Reviews.md](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Documentation_reviews.md)
 
+## Repo Admin / Maintainer
+
+<a href="https://github.com/PulkitSinghDev"><img src="https://user-images.githubusercontent.com/71369943/115286432-ae6f4600-a16c-11eb-8139-2a6e8533651f.png" width="100px" height="100px"></a>
+
+## Resources
+
+- [LICENSE](LICENSE)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [OpenSource Guide](Guides)
+- [Learning Tracks](#learning-tracks-we-provide)
