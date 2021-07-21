@@ -1,5 +1,11 @@
 # Open-Source for Everyone
 ![image.png](https://pulkitsinghdev.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1622860203177%2FduGc-I08R.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)
+
+## Highlights
+- [OpenSource Guide](Guide)
+- [Version Control](Version_Control.md)
+##
+
 **Hi folks 👋,**
 
 Today we will be discussing about something special .i.e, "OpenSource"!
@@ -38,6 +44,15 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 - **[Github](#Github)**
 
 **You can select any of the doc  to get strted with according to your convienience**
+
+## Learning Tracks (we provide)
+- [What is OpenSource](https://pulkitsinghdev.hashnode.dev/intro-to-open-source)
+- [Intro to Version Control](Version_Control.md)
+- [Git VS Github ( intro to git & github )](Git_VS_Github.md)
+- [Github Basics](Github_Basics)
+- [Git Basics](Git_Basics)
+- [Github Actions Basics](Github_Actions_Basics)
+- [OpenSource Guide](Guides)
 
 We hope you enjoy it and get to learn something new and awesome from it
 
