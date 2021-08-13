@@ -32,7 +32,7 @@ A software's original source code is made freely available and may be redistribu
 More control over that kind of software & can examine the code to make sure it's not doing anything you don't want it to do, and fix bugs
 
 ### What about others?
-You can make your projects, blogs, etc.. open source and let others contribute or view your work &many more advantages...
+You can make your projects, blogs, etc.. open source and let others contribute or view your work & many more advantages...
 
 ### other advantage includes:
 
@@ -45,9 +45,9 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 - **[Git](#Git)**
 - **[Github](#Github)**
 
-**You can select any of the doc  to get strted with according to your convienience**
+**You can select any of the doc to get started with according to your convienience**
 
-## Learning Tracks (we provide)
+## Learning Tracks (we provide):
 - [What is OpenSource](https://pulkitsinghdev.hashnode.dev/intro-to-open-source)
 - [Intro to Version Control](Version_Control.md)
 - [Git VS Github ( intro to git & github )](Git_VS_Github.md)
@@ -57,20 +57,21 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 - [OpenSource Guide](Guides)
 
 We hope you enjoy it and get to learn something new and awesome from it
-
 & make sure to provide your reviews for this docs here:-
+
 [Documentation_Reviews.md](https://github.com/PulkitSinghDev/OpenSource-for-Everyone/blob/main/Documentation_reviews.md)
 
-## Repo Admin / Maintainer
+## Repo Admin / Maintainer :
 
 <a href="https://github.com/PulkitSinghDev"><img src="https://user-images.githubusercontent.com/71369943/115286432-ae6f4600-a16c-11eb-8139-2a6e8533651f.png" width="100px" height="100px"></a>
 
-## Resources
+## Resources:
 
 - [LICENSE](LICENSE)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [OpenSource Guide](Guides)
 - [Learning Tracks](#learning-tracks-we-provide)
 
-# Support
+# Support:
+
 <a href="https://www.patreon.com/pulkitsinghdev" target="_blank" ><img src="https://user-images.githubusercontent.com/71369943/125153692-28fba080-e173-11eb-81ce-1a6d616991d7.png">
