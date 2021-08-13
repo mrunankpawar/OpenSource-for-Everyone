@@ -1,7 +1,6 @@
 # Introduction to GitHub Actions
-Learn about the core concepts and various components of GitHub Actions, and see an example that shows you how to add automation to your repository.
 
-GitHub Actions help you automate tasks within your software development life cycle. GitHub Actions are event-driven, meaning that you can run a series of commands after a specified event has occurred. For example, every time someone creates a pull request for a repository, you can automatically run a command that executes a software testing script.
+GitHub Actions help you to automate tasks within your software development life cycle, helping you to handle the software development life-cycle more easily. GitHub Actions are event-driven, meaning that you can run a series of commands after a specified event has occurred. For example, every time someone creates a pull request for a repository, you can automatically run a command that executes a software testing script.
 
 This diagram demonstrates how you can use GitHub Actions to automatically run your software testing scripts. An event automatically triggers the workflow, which contains a job. The job then uses steps to control the order in which actions are run. These actions are the commands that automate your software testing.
 
@@ -22,13 +21,13 @@ An event is a specific activity that triggers a workflow. For example, activity 
 A job is a set of steps that execute on the same runner. By default, a workflow with multiple jobs will run those jobs in parallel. You can also configure a workflow to run jobs sequentially. For example, a workflow can have two sequential jobs that build and test code, where the test job is dependent on the status of the build job. If the build job fails, the test job will not run.
 
 ### Steps
-A step is an individual task that can run commands in a job. A step can be either an action or a shell command. Each step in a job executes on the same runner, allowing the actions in that job to share data with each other.
+A step is an individual task that can run commands in a job. A step can be either an action or a shell command. Each step in a job executes on the same runner, allowing the actions in that job to share data.
 
 ### Actions
-Actions are standalone commands that are combined into steps to create a job. Actions are the smallest portable building block of a workflow. You can create your own actions, or use actions created by the GitHub community. To use an action in a workflow, you must include it as a step.
+Actions are standalone commands that are combined into steps to create a job. Actions are the smallest portable building block of a workflow. You can create your actions, or use actions created by the GitHub community. To use an action in a workflow, you must include it as a step.
 
 ### Runners
-A runner is a server that has the GitHub Actions runner application installed. You can use a runner hosted by GitHub, or you can host your own. A runner listens for available jobs, runs one job at a time, and reports the progress, logs, and results back to GitHub. GitHub-hosted runners are based on Ubuntu Linux, Microsoft Windows, and macOS, and each job in a workflow runs in a fresh virtual environment. For information on GitHub-hosted runners, see "About GitHub-hosted runners." If you need a different operating system or require a specific hardware configuration, you can host your own runners. For information on self-hosted runners, see "Hosting your own runners."
+A runner is a server that has the GitHub Actions runner application installed. You can use a runner hosted by GitHub, or you can host your own. A runner listens for available jobs, runs one job at a time, and reports the progress, logs, and results back to GitHub. GitHub-hosted runners are based on Ubuntu Linux, Microsoft Windows, and macOS, and each job in a workflow runs in a fresh virtual environment. For information on GitHub-hosted runners, see "About GitHub-hosted runners." If you need a different operating system or require a specific hardware configuration, you can host your runners. For information on self-hosted runners, see "Hosting your runners."
 
 ## Create an example workflow
 GitHub Actions uses YAML syntax to define the events, jobs, and steps. These YAML files are stored in your code repository, in a directory called ```.github/workflows```.
@@ -57,10 +56,10 @@ Understanding the workflow file
 To help you understand how YAML syntax is used to create a workflow file, this section explains each line of the introduction's example:
 
 ```name: learn-github-actions```
-Optional - The name of the workflow as it will appear in the Actions tab of the GitHub repository.
+Optional - The name of the workflow will appear in the Actions tab of the GitHub repository.
 
 ```on: [push]```
-Specify the event that automatically triggers the workflow file. This example uses the push event, so that the jobs run every time someone pushes a change to the repository. You can set up the workflow to only run on certain branches, paths, or tags. For syntax examples including or excluding branches, paths, or tags, see "Workflow syntax for GitHub Actions."
+Specify the event that automatically triggers the workflow file. This example uses the push event so that the jobs run every time someone pushes a change to the repository. You can set up the workflow to only run on certain branches, paths, or tags. For syntax examples including or excluding branches, paths, or tags, see "Workflow syntax for GitHub Actions."
 
 ```jobs:```
 Groups together all the jobs that run in the learn-github-actions workflow file.
@@ -90,26 +89,24 @@ In this diagram, you can see the workflow file you just created and how the GitH
 ## Viewing the job's activity
 Once your job has started running, you can see a visualization graph of the run's progress and view each step's activity on GitHub.
 
-1. On GitHub, navigate to the main page of the repository.
-
-2. Under your repository name, click Actions.
-Navigate to repository
+1. Under your repository name, click Actions.
+- Navigate to repository
 
 ![image](https://user-images.githubusercontent.com/71369943/124400425-f4858000-dd3f-11eb-9f79-2817c88eac7b.png)
 
-3. In the left sidebar, click the workflow you want to see.
+2. In the left sidebar, click on the workflow you want to see.
 
 ![image](https://user-images.githubusercontent.com/71369943/124400433-fc452480-dd3f-11eb-888b-4c1c1ed1e6ae.png)
 
-4. Under "Workflow runs", click the name of the run you want to see.
+3. Under "Workflow runs", click the name of the run you want to see.
 
 ![image](https://user-images.githubusercontent.com/71369943/124400439-09faaa00-dd40-11eb-96de-2f098a4fc972.png)
 
-5. Under Jobs or in the visualization graph, click the job you want to see.
+4. Under Jobs or in the visualization graph, click the job you want to see of that workflow.
 
 ![image](https://user-images.githubusercontent.com/71369943/124400445-17179900-dd40-11eb-8079-c5ab8abfa095.png)
 
-6. View the results of each step.
+5. View the results of each step.
 
 ![image](https://user-images.githubusercontent.com/71369943/124400451-20086a80-dd40-11eb-9aef-e2fe63c6a901.png)
 
