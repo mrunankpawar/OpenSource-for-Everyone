@@ -10,6 +10,11 @@
   <tr>
     <td>Programmers Universal Group</td>
     <td>This community is made for tech enthusiasts or tech lovers so that they can enhance there skills or we can say level up there knowledge and be aware of new technology based updates</td>
-    <td> <a href="https://www.pugroups.in/">Website</a>, <a href="http://discord.pugroups.in/">Discord</a>, <a href="https://twitter.com/PUGroups">Twitter</a>, </td>
+    <td> <a href="https://www.pugroups.in/">Website</a>, <a href="http://github.eddiehub.org/">Github</a>, <a href="http://discord.pugroups.in/">Discord</a>, <a href="https://twitter.com/PUGroups">Twitter</a>, </td>
+  </tr>
+  <tr>
+    <td>EddieHub</td>
+    <td>Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment</td>
+    <td> <a href="https://www.eddiehub.org/">Website</a>, <a href="http://github.eddiehub.org/">Github</a> </td>
   </tr>
 </table>
