@@ -74,4 +74,4 @@ We hope you enjoy it and get to learn something new and awesome from it
 
 # Support:
 
-<a href="https://www.patreon.com/pulkitsinghdev" target="_blank" ><img src="https://user-images.githubusercontent.com/71369943/125153692-28fba080-e173-11eb-81ce-1a6d616991d7.png">
+[<img alt="Buy me a Coffee Button" width=200 src="https://cdn.dribbble.com/users/439816/screenshots/3580937/1_.gif">](https://www.patreon.com/PulkitSinghDev) &nbsp; [<img alt="Buy me a Coffee Button" width=200 src="https://media1.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif?cid=6c09b9525if4qmp1c3ez9l9eqvywiqx8o1ao47gyfp1v0c20&rid=giphy.gif&ct=s">](https://www.buymeacoffee.com/PulkitSinghDev)
