@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>EddieHub</td>
-    <td>Open Source community aimed at encouraging and promoting communication, best practices and technical expertise in an inclusive and welcoming environment</td>
-    <td> <a href="https://www.eddiehub.org/">Website</a>, <a href="http://github.eddiehub.org/">Github</a> </td>
+    <td>We are a fast-growing developer’s community of students working towards a common goal: to acquire skill sets to lead us to a better understanding of concepts and projects. We organise and participate in hackathons, webinar’s, competitions, global courses and many more. We aim to grow, excel and learn together by conducting tutorials and working on live projects!</td>
+    <td> <a href="https://developerstudentcommunity.co/">Website</a>, <a href="https://twitter.com/DevStuCom">Twitter</a> </td>
   </tr>
 </table>
