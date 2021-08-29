@@ -2,15 +2,20 @@
 - The open source community is diverse and highly motivated. We're sure you'll be able to find someone who can help you (or that you can help) no matter what your interests are.
 
 <table>
-  <tr>
+  <tr><b>
     <td>Github forums</td>
     <td>Github official support forum for everyone</td>
     <td><a href="https://github.community/">Forum</a></td>
+    </b>
   </tr>
   <tr>
     <th>Community</th>
     <th>Description</th>
     <th>Links</th>
+  </tr>
+  <td>Community Classroom</td>
+    <td>Community Classroom is an initiative built on this thought. The organisation is founded by Kunal Kushwaha and Rahul Rana. Get expert guidance with career, Open Source, and internships, jobs around the world.</td>
+    <td> <a href="https://discord.com/invite/77xJrUBmpp">Discord</a>, <a href="https://twitter.com/commclassroom">Twitter</a>, <a href="https://www.youtube.com/KunalKushwaha">Youtube</a> </td>
   </tr>
   <tr>
     <td>Programmers Universal Group</td>
