@@ -3,6 +3,11 @@
 
 <table>
   <tr>
+    <td>Github forums</td>
+    <td>Github official support forum for everyone</td>
+    <td><a href="https://github.community/">Forum</a></td>
+  </tr>
+  <tr>
     <th>Community</th>
     <th>Description</th>
     <th>Links</th>
