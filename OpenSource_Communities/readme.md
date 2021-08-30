@@ -23,8 +23,13 @@
     <td> <a href="https://www.pugroups.in/">Website</a>, <a href="http://github.eddiehub.org/">Github</a>, <a href="http://discord.pugroups.in/">Discord</a>, <a href="https://twitter.com/PUGroups">Twitter</a>, </td>
   </tr>
   <tr>
+    <td>Major League Hacking</td>
+    <td>Major League Hacking (MLH) is the official student hackathon league. Each year, we power over 200 weekend-long invention competitions that inspire innovation, cultivate communities and teach computer science skills to more than 65,000 students around the world. MLH is an engaged and passionate maker community, consisting of the next generation of technology leaders and entrepreneurs.</td>
+    <td> <a href="https://mlh.io">Website</a>, <a href="https://twitter.com/mlhacks">Twitter</a>, <a href="https://discord.mlh.io">Discord</a> </td>
+  </tr>
+  <tr>
     <td>EddieHub</td>
     <td>We are a fast-growing developer’s community of students working towards a common goal: to acquire skill sets to lead us to a better understanding of concepts and projects. We organise and participate in hackathons, webinar’s, competitions, global courses and many more. We aim to grow, excel and learn together by conducting tutorials and working on live projects!</td>
-    <td> <a href="https://developerstudentcommunity.co/">Website</a>, <a href="https://twitter.com/DevStuCom">Twitter</a> </td>
+    <td> <a href="https://eddiehub.org/">Website</a>, <a href="http://discord.eddiehub.org/">Discord</a> </td>
   </tr>
 </table>
