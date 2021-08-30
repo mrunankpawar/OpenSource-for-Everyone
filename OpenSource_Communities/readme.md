@@ -13,6 +13,10 @@
     <th>Description</th>
     <th>Links</th>
   </tr>
+  <td>DEVSTRONS'</td>
+    <td><b>DEVSTRONS'</b> is a student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code & Tron (grow). It's an organization bridging a gap between beginners or professionals to provide opportunities/resources to the folks around.
+    <td> <a href="https://discord.com/invite/MVujzTBqed">Discord</a>, <a href="https://twitter.com/devstrons">Twitter</a>, <a href="https://linktr.ee/devstrons">Linktree</a> </td>
+  </tr>
   <td>Community Classroom</td>
     <td>Community Classroom is an initiative built on this thought. The organisation is founded by Kunal Kushwaha and Rahul Rana. Get expert guidance with career, Open Source, and internships, jobs around the world.</td>
     <td> <a href="https://discord.com/invite/77xJrUBmpp">Discord</a>, <a href="https://twitter.com/commclassroom">Twitter</a>, <a href="https://www.youtube.com/KunalKushwaha">Youtube</a> </td>
