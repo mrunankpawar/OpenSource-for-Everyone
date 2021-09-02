@@ -8,6 +8,12 @@
     <td><a href="https://github.community/">Forum</a></td>
     </b>
   </tr>
+  <tr><b>
+    <td>Github Education Community</td>
+    <td>Github Education Community's official support forum for everyone</td>
+    <td><a href="https://education.github.community/">Forum</a></td>
+    </b>
+  </tr>
   <tr>
     <th>Community</th>
     <th>Description</th>
