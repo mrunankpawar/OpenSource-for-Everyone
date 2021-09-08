@@ -43,8 +43,14 @@
     <td><b>DEVSTRONS'</b> is a student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code & Tron (grow). It's an organization bridging a gap between beginners and professionals to provide opportunities/resources to the folks around.
     <td> <a href="https://discord.com/invite/MVujzTBqed">Discord</a>, <a href="https://twitter.com/devstrons">Twitter</a>, <a href="https://linktr.ee/devstrons">Linktree</a> </td>
   </tr>
+  <tr>
   <td>The Algorithms</td>
-    <td><b>The Algorithms</b> is an open-source organization with a collection of over 100 popular algorithms and data structures in many popular programming languages. We support popular languages such as C/C++, Java, Python, GoLang, Ruby, and many more. It can help people learn algorithms and data structures very quickly, thanks to our refined documentation written by the community. We are an open-source community, that means everyone can contribute! In case you are contributing for your first time to The Algorithms, we'll gladly send you a list of good first opportunities to contribute.
+    <td><b>The Algorithms</b> is an open-source organization with a collection of over 100 popular algorithms and data structures in many popular programming languages. We support popular languages such as C/C++, Java, Python, GoLang, Ruby, and many more. It can help people learn algorithms and data structures very quickly, thanks to our refined documentation written by the community. We are an open-source community, that means everyone can contribute! In case you are contributing for your first time to The Algorithms, we'll gladly send you a list of good first opportunities to contribute.</td>
     <td> <a href="https://the-algorithms.com">Website</a>, <a href="https://github.com/TheAlgorithms">GitHub</a> <a href="https://twitter.com/The_Algorithms">Twitter</a>, <a href="https://discord.gg/c7MnfGFGa6">Discord</a> </td>
   </tr>
+  <tr>
+  <td>Github Campus Experts</td>
+    <td>A 600+ community of students involved in promoting open-source under the flag of GitHub. I saw this community from the very first day. Initially, it proceed slowly but recently, it has gathered huge momentum and have involved several students in open-source events.</td>
+    <td> <a href="https://education.github.com/experts">Website</a>, <a href="github.com/campus-experts">GitHub</a></td>
+  </tr>  
 </table>
