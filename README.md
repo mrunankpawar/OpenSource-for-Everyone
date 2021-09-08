@@ -55,6 +55,7 @@ get to collaborate with for your project, work, etc... & many more..... 🤩🤩
 - [Git Basics](Git_Basics)
 - [Github Actions Basics](Github_Actions_Basics)
 - [OpenSource Guide](Guides)
+- [OpenSource Communities](OpenSource_Communities)
 
 We hope you enjoy it and get to learn something new and awesome from it
 & make sure to provide your reviews for this docs here:-
