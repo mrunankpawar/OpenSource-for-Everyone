@@ -53,4 +53,9 @@
     <td>A 600+ community of students involved in promoting open-source under the flag of GitHub. I saw this community from the very first day. Initially, it proceed slowly but recently, it has gathered huge momentum and have involved several students in open-source events.</td>
     <td> <a href="https://education.github.com/experts">Website</a>, <a href="github.com/campus-experts">GitHub</a></td>
   </tr>  
+  <tr> 
+  <td>CocoaPods</td>
+    <td>CocoaPods is a strong community that represents its contributors well. Nice communication and its popular and satisfaction among the contributor base brings it into our list. On a personal level, I am impressed by the way they represent their contributor base by giving everyone a dynamic place.</td>
+    <td><a href="https://cocoapods.org/">Website</a>, <a href="https://github.com/CocoaPods?page=1">GitHub</a></td>
+    </tr>
 </table>
